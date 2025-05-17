@@ -8,3 +8,10 @@ This dataset offers a comprehensive overview of e-commerce sales profitability. 
 Assuming you are a data analyst/ scientist at Amazon, you have been assigned the task of analyzing the given dataset to extract valuable insights and provide actionable recommendations.
 
 ### Tool used: Tableau
+
+You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/views/SalesDashboardAmazonIndia/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Amazon E-Commerce Sales Dashboard
+
+![image]
+
